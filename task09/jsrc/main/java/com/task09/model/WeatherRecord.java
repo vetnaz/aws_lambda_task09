@@ -4,7 +4,7 @@ import com.amazonaws.services.dynamodbv2.datamodeling.DynamoDBAttribute;
 import com.amazonaws.services.dynamodbv2.datamodeling.DynamoDBHashKey;
 import com.amazonaws.services.dynamodbv2.datamodeling.DynamoDBTable;
 
-@DynamoDBTable(tableName = "Weather")
+@DynamoDBTable(tableName = "cmtr-985d4752-weather-test")
 public class WeatherRecord {
     private String id;
     private Forecast forecast;
