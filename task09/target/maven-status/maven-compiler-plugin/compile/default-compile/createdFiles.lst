@@ -1,0 +1,7 @@
+com\task09\model\Forecast.class
+com\task09\Processor$1.class
+com\task09\model\HourlyData.class
+com\task09\model\WeatherRecord.class
+com\task09\Processor.class
+com\task09\model\HourlyUnits.class
+com\task09\api\OpenMeteoWeather.class
